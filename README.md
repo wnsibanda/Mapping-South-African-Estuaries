@@ -3,4 +3,4 @@ This project gives a summary of 62 of the major estuaries in South Africa. Pytho
 
 <font color="green">To see the interactive maps and run the code use this link below:</font>
 
-https://mybinder.org/v2/gh/wnsibanda/Mapping-South-African-Estuaries/0d257c04eec4686b494d58413b73b47a7cd81b89?filepath=Mapping_Estuaries_In_South_Africa.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wnsibanda/Mapping-South-African-Estuaries/df7f5ff884222c2d270d4fd54f49dd5d2263f27c)
